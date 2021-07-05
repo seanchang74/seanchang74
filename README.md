@@ -1,8 +1,8 @@
-**seanchang74/seanchang74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seanchang74/seanchang74** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=seanchang74.seanchang74)
