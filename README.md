@@ -1,7 +1,3 @@
-**seanchang74/seanchang74** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -13,7 +9,7 @@ Here are some ideas to get you started:
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-- 🌱 I’m currently learning Data Science, GCP, Pytorch 
+- 🌱 I’m currently learning Data Science, GCP, Pytorch, Blockchin
 
 - 💬 Computer Science Department Junior Student 
 
